@@ -1,0 +1,1 @@
+# dynamiczna-alokacja-pamieci
